@@ -13,7 +13,7 @@
     <a href="" rel="external nofollow noopener" target="_blank"><strong>Lu Ding*</strong></a>
   </p>
 <p align="center">
-    <a href="" rel="external nofollow noopener" target="_blank">Unmanned Systems 2025</a>
+    <a href="" rel="external nofollow noopener" target="_blank">Unmanned Systems 2026</a>
   <p align="center">
     <img src="assets/1.jpeg" alt="Description of the image" width="600" height="600">
   <p align="center">
@@ -148,7 +148,7 @@ If you find **GFUAVT** helpful in your research, please consider citing:
   title={Ground view fixed-wing UAV tracking dataset and experimental evaluation},
   author={Yong Wanga, Wei Lia, Xiangyu Zhua, Lu Dingb},
   booktitle={Unmanned Systems},
-  year={2025}
+  year={2026}
 }
 ```
 
