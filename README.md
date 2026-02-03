@@ -35,7 +35,7 @@ We construct a ground view vision system based on a monocular camera and process
 
 ## News 📢
 - We released the **GFUAVT** codebase!
-- Great news! Our paper has been accepted to **Unmanned Systems 2025**! 🏆
+- Great news! Our paper has been accepted to **Unmanned Systems 2026**! 🏆
 
 ---
 
